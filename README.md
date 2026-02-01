@@ -25,7 +25,7 @@ projectiles during slow-motion gameplay.
 ![Bullet Perspective](media/bullet_view.png)
 
 ## Playable Build
-▶ **Windows Build:** *(Link will be added)*
+▶ **Windows Build:** *( https://drive.google.com/drive/folders/1A48yIgZMs9jrsOxf4IMTdZTlPgcgIUye?usp=drive_link )*
 
 ## Current Status
 - Core gameplay systems complete
