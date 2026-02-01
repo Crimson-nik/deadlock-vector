@@ -21,7 +21,7 @@ projectiles during slow-motion gameplay.
 - Game state and time-scale management
 
 ## Media
-![Combat Gameplay](media/combat.png)
+![Combat Gameplay](media/Combat.png)
 ![Bullet Perspective](media/bullet_view.png)
 
 ## Playable Build
